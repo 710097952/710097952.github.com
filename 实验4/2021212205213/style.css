@@ -1,0 +1,228 @@
+/*****************************背景*******************************/
+.bg{ 
+    width: 580px;
+    background-color: rgb(255, 255, 255);
+}
+
+/*****************************收货栏*****************************/
+.p1{
+    padding-top: 30px;
+    display: inline-block;    
+    padding-left: 55px;
+    padding-right: 0px;
+    padding-bottom: 30px;
+}
+.num1{/*数量*/
+    text-align:center;
+    color: rgb(253, 82, 40);
+    font-size: 25px;
+    font-weight:bolder;
+}
+.text1{/*待收货、发货、付款、评价*/
+    color: rgb(127, 127, 127);
+    font-size: 26px;
+    font-weight:light;
+}
+
+
+/******************************举报专区***************************/
+.h2{    
+    width: 580px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background-color: rgb(250, 217, 208);
+}
+.text2{    
+    width: 580px;
+    color: rgb(218, 89, 58);
+    font-size: 22px;
+    font-weight:normal;    
+    text-align:center;
+ }
+
+
+/*******************公告 规则 论坛 安全 公益**********************/
+ .h3{    
+    width: 800px;
+    padding-top: 20px;
+ }
+ .red_text3{
+    display: inline-block;
+    color: rgb(109, 109, 109);
+    font-size: 22px;
+    font-weight:light;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    border-bottom: 4px solid rgb(250, 62, 15);
+}
+.text3{
+    display: inline-block;
+    color: rgb(110, 110, 110);
+    font-size: 22px;
+    font-weight:light;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-bottom: 4px solid rgb(255, 255, 255);
+}
+
+
+/****************************middle page**************************/
+.h4{
+    padding-left: 15px;;
+}
+
+.p2{
+    display: inline-block;    
+    padding-left: 10px;
+    padding-right: 60px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.text4_1{
+    color: rgb(215, 86, 54);
+    font-size: 22px;
+    font-weight:light;   
+}
+.text4_2{
+    color: rgb(111, 111, 111); 
+    margin-top: 14px;
+    font-size: 22px;
+    font-weight:light;
+}
+
+
+/***************************************图标*************************************/
+.tool{
+    position: relative;
+    left: 6px;
+    display:inline-block;
+    width: 144px;
+    margin-left: -6px;
+    border-top: 2px solid rgb(242, 237, 237);
+    border-left: 1px solid rgb(242, 237, 237);
+    border-right: 1px solid rgb(242, 237, 237);
+    border-bottom: 2px solid rgb(244, 70, 27);
+    color: rgb(116, 114, 114);
+    font-size: 25px;
+    font-weight:light;
+    text-align:center;
+}
+.r_tool{
+    position: relative;
+    left: 6px;
+    display:inline-block;
+    width: 144px;
+    margin-left: -6px;
+    border-top: 2px solid rgb(251, 72, 27);
+    border-left: 2px solid rgb(251, 72, 27);
+    border-right: 2px solid rgb(251, 72, 27);
+    border-bottom: 2px solid rgb(255, 255, 255);
+    color: rgb(244, 74, 31);
+    font-size: 23px;
+    font-weight:light;
+    text-align:center;
+}
+.tool img {
+    width: 140px
+}
+.r_tool img {
+    width: 140px
+}
+.text5{
+    padding-bottom: 10px;
+}
+
+
+/********************************话费*****************************/
+.phone_bill{
+    width: 578px;
+    height: 240px;
+    padding-bottom: 50px;
+    border-left: 2px solid rgb(247, 72, 28);
+    border-right: 2px solid rgb(247, 72, 28);
+    border-bottom: 2px solid rgb(247, 72, 28);
+}
+.text6{
+    display: inline-block;
+    color: rgb(107, 107, 107);
+    font-size: 22px;
+    font-weight:light;
+    padding-top: 25px;
+    padding-left: 45px;
+    padding-right: 10px;
+}
+.red_text6{
+    display: inline-block;
+    color: rgb(255, 74, 28);
+    font-size: 22px;
+    font-weight:light;
+    padding-top: 25px;
+    padding-left: 45px;
+    padding-right: 10px;
+}
+.h7_1{/*请输入手机号*/
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-left: 5px;
+    padding-top: 4px;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    color: rgb(204, 204, 204);
+    border-top: 2px solid rgb(220, 219, 219);
+    border-left: 2px solid rgb(220, 219, 219);
+    border-right: 2px solid rgb(220, 219, 219);
+}
+.h7_2{/*50元*/
+    margin-left: 20px;
+    margin-top: -2px;
+    padding-left: 5px;
+    padding-top: 10px;
+    width: 300px;
+    height: 30px;
+    font-size: 22px;
+    font-weight: bold;
+    border-top: 2px solid rgb(220, 219, 219);
+    border-left: 2px solid rgb(220, 219, 219);
+    border-right: 2px solid rgb(220, 219, 219);
+    border-bottom: 2px solid rgb(220, 219, 219);
+}
+.h8{/*售价 ￥ 49-49.8*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.text7{
+    margin-left: 30px;
+    display: inline-block;
+    color: rgb(105, 103, 103);
+    font-size: 20px;
+    font-weight:light;
+
+}
+.text8{
+    display: inline-block;
+    color: rgb(255, 71, 25);
+    font-size: 20px;
+    font-weight:bolder;
+}
+
+/***********************************立即充值********************************/
+.h9{
+    background-color: rgb(250, 72, 28);    
+    margin-left: 25px;
+    width: 105px;
+    color: aliceblue;
+    font-size: 22px;
+    font-weight:bold;
+    text-align:center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
